@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H R ABHINANDAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Flutter developer </h3>
  
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/hola3abhinandan" target="blank"><img src="https://img.shields.io/twitter/follow/hola3abhinandan?logo=twitter&style=for-the-badge" alt="hola3abhinandan" /></a> </p>
 
-- 🔭 I’m currently working on **Android Application**
+- 🔭 I’m currently working on **Mobile Application**
 
 - 🌱 I’m currently learning **Flutter,Google Cloud Engineer,React Native**
 
