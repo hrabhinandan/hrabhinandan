@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/h-r-abhinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-r-abhinandan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhinandan-holalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinandan-holalu" height="30" width="40" /></a>
 <a href="https://instagram.com/_hr_abhi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hr_abhi__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hrabhinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech@abhiguru" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hrabhinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hrabhinandan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
