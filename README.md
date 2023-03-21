@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm H R ABHINANDAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+ 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrabhinandan&label=Profile%20views&color=0e75b6&style=flat" alt="hrabhinandan" /> </p>
 
@@ -26,7 +28,7 @@
 <a href="https://linkedin.com/in/h-r-abhinandan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h-r-abhinandan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abhinandan-holalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abhinandan-holalu" height="30" width="40" /></a>
 <a href="https://instagram.com/_hr_abhi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hr_abhi__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/h_r_abhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="h_r_abhi_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tech@abhiguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech@abhiguru" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
